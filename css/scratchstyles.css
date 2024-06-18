@@ -7,6 +7,8 @@ body {
     font-size: 1em;
     color: rgb(0, 0, 0);
     text-align: center;
+         /* Make room for footer */
+     padding-bottom: 100px; 
 }
 
 .numbers {
